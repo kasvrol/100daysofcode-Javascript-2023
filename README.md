@@ -8,14 +8,14 @@
 <h3>Escopo</h3>
 <ul>
 <li>
-Livro: Estruturas de Dados e Algoritmos com JavaScript - Groner, Loiane
+<a href="https://github.com/kasvrol/100daysofcode-Javascript-2023/wiki/Estruturas-de-Dados-e-Algoritmos-com-JavaScript">Livro: Estruturas de Dados e Algoritmos com JavaScript - Groner, Loiane</a>
 </li>
 </ul>
 
 <h3>Segmento dos dias do desafio:</h3>
 <ul>
 <li>
-https://github.com/kasvrol/100daysofcode-Javascript-2023.wiki.git
+<a href="https://github.com/kasvrol/100daysofcode-Javascript-2023/wiki/Dia-1">Dia 1</a>
 </li>
 </ul>
 
