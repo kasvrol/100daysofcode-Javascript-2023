@@ -15,7 +15,7 @@
 <h3>Segmento dos dias do desafio:</h3>
 <ul>
 <li>
-<a href="https://github.com/kasvrol/100daysofcode-Javascript-2023/wiki/Dia-1">Dia 1 ao dia 10</a>
+<a href="https://github.com/kasvrol/100daysofcode-Javascript-2023/wiki/Dia-1-ao-dia-10">Dia 1 ao dia 10</a>
 </li>
 </ul>
 
