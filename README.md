@@ -1,2 +1,14 @@
-# 100daysofcode-Javascript-2023
-Desafio 100 days of code com o objetivo de melhorar na linguagem Javascript
+<h1>100 days of code 2023 - Javascript</h1>
+
+<h3>Sobre</h3>
+<p>O objetivo deste repositório é elencar e guardar meu estudo pelo desafio 100 days of code fazendo uso da linguagem Javascript.</p>
+<p>Pretendo seguir um escopo, porém ele pode ter desvios devido obrigações maiores (faculdade e processos seletivos).</p>
+<p>Independente dos desvios - tudo relacionado a linguagem que se encaixa ao desafio -, estará aqui linkado ou contido no repositório.</p>
+
+<h3>Escopo</h3>
+<ul>
+<li>
+Livro: Estruturas de Dados e Algoritmos com JavaScript - Groner, Loiane
+</li>
+</ul>
+
