@@ -12,3 +12,10 @@ Livro: Estruturas de Dados e Algoritmos com JavaScript - Groner, Loiane
 </li>
 </ul>
 
+<h3>Segmento dos dias do desafio:</h3>
+<ul>
+<li>
+https://github.com/kasvrol/100daysofcode-Javascript-2023.wiki.git
+</li>
+</ul>
+
