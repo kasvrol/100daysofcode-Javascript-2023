@@ -1,22 +1,24 @@
 {
-  "name": "100daysofcode-javascript-2023",
-  "version": "1.0.0",
-  "description": "Desafio 100 days of code com o objetivo de melhorar na linguagem Javascript",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kasvrol/100daysofcode-Javascript-2023.git"
-  },
-  "author": "Ana Karolina (kasvrol)",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/kasvrol/100daysofcode-Javascript-2023/issues"
-  },
-  "homepage": "https://github.com/kasvrol/100daysofcode-Javascript-2023#readme",
-  "dependencies": {
-    "nodemon": "^2.0.20"
-  }
+	"name": "100daysofcode-javascript-2023",
+	"version": "1.0.0",
+	"description": "Desafio 100 days of code com o objetivo de melhorar na linguagem Javascript",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "nodemon ./src/index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kasvrol/100daysofcode-Javascript-2023.git"
+	},
+	"author": "Ana Karolina (kasvrol)",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/kasvrol/100daysofcode-Javascript-2023/issues"
+	},
+	"homepage": "https://github.com/kasvrol/100daysofcode-Javascript-2023#readme",
+	"dependencies": {
+		"nodemon": "^2.0.20"
+	}
 }
