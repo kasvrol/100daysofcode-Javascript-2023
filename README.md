@@ -11,7 +11,10 @@
 <a href="https://github.com/kasvrol/100daysofcode-Javascript-2023/wiki/Estruturas-de-Dados-e-Algoritmos-com-JavaScript">Livro: Estruturas de Dados e Algoritmos com JavaScript - Groner, Loiane</a>
 </li>
 <li>
-<a href="https://roadmap.sh/javascript">JavaScript Roadmap</a>
+<a href="https://reactnative.dev/">JavaScript Roadmap</a>
+</li>
+<li>
+<a href="https://roadmap.sh/javascript">React Native</a>
 </li>
 </ul>
 
