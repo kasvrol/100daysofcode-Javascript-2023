@@ -11,7 +11,7 @@
 <h3>Escopo</h3>
 <ul>
 <li>
-<a href="https://github.com/kasvrol/100daysofcode-Javascript-2023/wiki/Estruturas-de-Dados-e-Algoritmos-com-JavaScript">Livro: Estruturas de Dados e Algoritmos com JavaScript - Groner, Loiane</a>
+<a href="https://www.amazon.com.br/Estruturas-Dados-Algoritmos-Com-Javascript/dp/8575226932/ref=sr_1_5?adgrpid=1140194216476931&hvadid=71262224875638&hvbmt=bp&hvdev=c&hvlocphy=146946&hvnetw=o&hvqmt=p&hvtargid=kwd-71262655298811%3Aloc-20&hydadcr=5720_11235333&keywords=estruturas+de+dados+e+algoritmos+com+javascript&qid=1673219682&sr=8-5">Livro: Estruturas de Dados e Algoritmos com JavaScript - Groner, Loiane</a>
 </li>
 <li>
 <a href="https://reactnative.dev/">JavaScript Roadmap</a>
