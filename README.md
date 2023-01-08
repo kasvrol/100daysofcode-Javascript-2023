@@ -5,6 +5,9 @@
 <p>Pretendo seguir um escopo, porém ele pode ter desvios devido obrigações maiores (faculdade e processos seletivos).</p>
 <p>Independente dos desvios - tudo relacionado a linguagem que se encaixa ao desafio -, estará aqui linkado ou contido no repositório.</p>
 
+<h3>Ferramentas:</h3>
+<p>Node: version 16.13.2</p>
+
 <h3>Escopo</h3>
 <ul>
 <li>
@@ -27,4 +30,3 @@
 <a href="https://github.com/kasvrol/100daysofcode-Javascript-2023/wiki/Dia-3-ao-dia-10">Dia 3 ao dia 10</a>
 </li>
 </ul>
-
