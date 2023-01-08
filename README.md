@@ -27,6 +27,15 @@
 <a href="https://github.com/kasvrol/100daysofcode-Javascript-2023/wiki/Dia-1-ao-dia-2">Dia 1 ao dia 2</a>
 </li>
 <li>
-<a href="https://github.com/kasvrol/100daysofcode-Javascript-2023/wiki/Dia-3-ao-dia-10">Dia 3 ao dia 10</a>
+<a href="https://github.com/kasvrol/100daysofcode-Javascript-2023/wiki/Dia-3-ao-dia-4">Dia 3 ao dia 4</a>
+</li>
+<li>
+<a href="https://github.com/kasvrol/100daysofcode-Javascript-2023/wiki/Dia-5-ao-dia-6">Dia 5 ao dia 6</a>
+</li>
+<li>
+<a href="https://github.com/kasvrol/100daysofcode-Javascript-2023/wiki/Dia-7-ao-dia-8">Dia 7 ao dia 8</a>
+</li>
+<li>
+<a href="https://github.com/kasvrol/100daysofcode-Javascript-2023/wiki/Dia-9-ao-dia-10">Dia 9 ao dia 10</a>
 </li>
 </ul>
