@@ -2,6 +2,7 @@ import segundoDia from "./assets/dia01aoDia10/segundoDia.js";
 import quartoDia from "./assets/dia01aoDia10/quartoDia.js";
 import quartoDiaPartII from "./assets/dia01aoDia10/quartoDiaPartII.js";
 import quintoDia from "./assets/dia01aoDia10/quintoDia.js";
+import quintoDiaPartII from "./assets/dia01aoDia10/quintoDiaPartII.js";
 
 function returnLogs() {
 	//console.log(segundoDia)
@@ -9,7 +10,8 @@ function returnLogs() {
 	//quartoDia(); /*para book.printTitle(); */
 	//quartoDiaPartII();
 	//quintoDia(10, 10, 10); /*Valores default para parâmetros de funções*/
-	quintoDia();
+	//quintoDia();
+	quintoDiaPartII();
 }
 
 returnLogs();
