@@ -5,20 +5,20 @@ var obj = new Object();
 var obj2 = {};
 
 obj2 = {
-    name: /*chave do objeto */ {
-        first: /*chave do objeto */ "Gandalf" /**valor do objeto*/,
-        last: /*chave do objeto */ "the Gray" /**valor do objeto*/,
-        /**valor do objeto*/
-    },
-    adress: /*chave do objeto */ "Middle Earth" /**valor do objeto*/,
+	name: /*chave do objeto */ {
+		first: /*chave do objeto */ "Gandalf" /**valor do objeto*/,
+		last: /*chave do objeto */ "the Gray" /**valor do objeto*/,
+		/**valor do objeto*/
+	},
+	adress: /*chave do objeto */ "Middle Earth" /**valor do objeto*/,
 };
 
 /*envio para o arquivo index*/
 function objetos() {
-    return {
-        obj: obj,
-        obj2: obj2,
-    };
+	return {
+		obj: obj,
+		obj2: obj2,
+	};
 }
 
 /*export default objetos();
@@ -31,9 +31,9 @@ envio para o arquivo index*/
 
 /*modos de declarar classes: */
 function Book(titulo, paginas, isbn) {
-    this.titulo = titulo;
-    this.paginas = paginas;
-    this.isbn = isbn;
+	this.titulo = titulo;
+	this.paginas = paginas;
+	this.isbn = isbn;
 }
 
 var book = new Book("contos extraordinários", "300", "00000");
@@ -62,7 +62,7 @@ Book {
 
 /**funções/métodos:*/
 Book.prototype.printTitle = function () {
-    console.log(this.titulo);
+	//console.log(this.titulo);
 };
 
 /*export default book.printTitle(); 
