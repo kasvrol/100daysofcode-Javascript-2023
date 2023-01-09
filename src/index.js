@@ -8,6 +8,7 @@ function returnLogs() {
 	//console.log(quartoDia);
 	//quartoDia(); /*para book.printTitle(); */
 	//quartoDiaPartII();
+	//quintoDia(10, 10, 10); /*Valores default para parâmetros de funções*/
 	quintoDia();
 }
 
