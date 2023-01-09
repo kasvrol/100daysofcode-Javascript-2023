@@ -90,7 +90,7 @@ function rest() {
 		console.log(z); //[ 'hello', true, 7 ]
 		console.log((x + y) * z.length);
 		/*log:
-        12
+        9
         */
 	}
 	childRest(1, 2, "hello", true, 7);
