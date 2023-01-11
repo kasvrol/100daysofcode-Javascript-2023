@@ -3,6 +3,7 @@ import quartoDia from "./assets/dia01aoDia10/quartoDia.js";
 import quartoDiaPartII from "./assets/dia01aoDia10/quartoDiaPartII.js";
 import quintoDia from "./assets/dia01aoDia10/quintoDia.js";
 import quintoDiaPartII from "./assets/dia01aoDia10/quintoDiaPartII.js";
+import sextoDia from "./assets/dia01aoDia10/sextoDia.js";
 
 function returnLogs() {
 	//console.log(segundoDia)
@@ -11,7 +12,9 @@ function returnLogs() {
 	//quartoDiaPartII();
 	//quintoDia(10, 10, 10); /*Valores default para parâmetros de funções*/
 	//quintoDia();
-	quintoDiaPartII();
+	//quintoDiaPartII();
+
+	sextoDia();
 }
 
 returnLogs();
