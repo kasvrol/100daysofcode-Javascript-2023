@@ -61,25 +61,3 @@ function OperadorDeExpoencial() {
 }
 
 export default OperadorDeExpoencial;
-
-function OperadorDeExpoencial() {
-	const repetindoVariavel = 16 * 16;
-	console.log(repetindoVariavel);
-	/*log:
-        256
-        */
-
-	const usandoOperador = 14 ** 2;
-	console.log(usandoOperador);
-	/*log:
-        196
-        */
-
-	const usandoOperadorMath = Math.pow(12, 2);
-	console.log(usandoOperadorMath);
-	/*log:
-        144
-        */
-}
-
-export default OperadorDeExpoencial;
