@@ -6,18 +6,21 @@ import quintoDiaPartII from "./assets/dia01aoDia10/quintoDiaPartII.js";
 import sextoDia from "./assets/dia01aoDia10/sextoDia.js";
 import setimoDia from "./assets/dia01aoDia10/setimoDia.js";
 import setimoDiaPartII from "./assets/dia01aoDia10/setimoDiaPartII.js";
-function returnLogs() {
-	//console.log(segundoDia)
-	//console.log(quartoDia);
-	//quartoDia(); /*para book.printTitle(); */
-	//quartoDiaPartII();
-	//quintoDia(10, 10, 10); /*Valores default para parâmetros de funções*/
-	//quintoDia();
-	//quintoDiaPartII();
+import oitavoDia from "./assets/dia01aoDia10/oitavoDia.js";
 
-	//sextoDia();
-	//setimoDia();
-	setimoDiaPartII();
+function returnLogs() {
+    //console.log(segundoDia)
+    //console.log(quartoDia);
+    //quartoDia(); /*para book.printTitle(); */
+    //quartoDiaPartII();
+    //quintoDia(10, 10, 10); /*Valores default para parâmetros de funções*/
+    //quintoDia();
+    //quintoDiaPartII();
+
+    //sextoDia();
+    //setimoDia();
+    //setimoDiaPartII();
+    oitavoDia();
 }
 
 returnLogs();
