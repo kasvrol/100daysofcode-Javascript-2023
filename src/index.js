@@ -7,6 +7,9 @@ import sextoDia from "./assets/dia01aoDia10/sextoDia.js";
 import setimoDia from "./assets/dia01aoDia10/setimoDia.js";
 import setimoDiaPartII from "./assets/dia01aoDia10/setimoDiaPartII.js";
 import oitavoDia from "./assets/dia01aoDia10/oitavoDia.js";
+import nonoDia from "./assets/dia01aoDia10/nonoDia.js";
+import nonoDiaPartII from "./assets/dia01aoDia10/nonoDiaPartII.js";
+import nonoDiaPartIII from "./assets/dia01aoDia10/nonoDiaPartIII.js";
 
 function returnLogs() {
     //console.log(segundoDia)
@@ -20,7 +23,10 @@ function returnLogs() {
     //sextoDia();
     //setimoDia();
     //setimoDiaPartII();
-    oitavoDia();
+    //oitavoDia();
+    //nonoDia();
+    //nonoDiaPartII();
+    nonoDiaPartIII();
 }
 
 returnLogs();
