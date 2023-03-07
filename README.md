@@ -1,9 +1,9 @@
-<h1>100 days of code 2023 - Javascript</h1>
+<h1>Estudo em Javascript</h1>
 
 <h3>Sobre</h3>
-<p>O objetivo deste repositório é elencar e guardar meu estudo pelo desafio 100 days of code fazendo uso da linguagem Javascript.</p>
-<p>Pretendo seguir um escopo, porém ele pode ter desvios devido obrigações maiores (faculdade e processos seletivos).</p>
-<p>Independente dos desvios - tudo relacionado a linguagem que se encaixa ao desafio -, estará aqui linkado ou contido no repositório.</p>
+<p>O objetivo deste repositório é elencar e guardar meu estudo com a linguagem Javascript.</p>
+<p>Pretendo seguir um escopo determinado por materiais de estudo para compreender particularidades da linguagem, este estará linkado abaixo.</p>
+<p>Maiores informações sobre o estudo estão na wiki deste repositório e o código contém comentários pois servirá como consulta futuramente.</p>
 
 <h3>Ferramentas:</h3>
 <p>Node: version 16.13.2</p>
@@ -21,7 +21,7 @@
 </li>
 </ul>
 
-<h3>Segmento dos dias do desafio:</h3>
+<h3>Segmento do estudo pela linguagem:</h3>
 
 | Dia 1 ao dia 10  |      Dia 11 ao dia 20     |      Dia 21 ao dia 30     |      Dia 31 ao dia 40     |      Dia 41 ao dia 50     |
 |----------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
