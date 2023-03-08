@@ -11,6 +11,7 @@ import nonoDia from "./dia01aoDia10/nonoDia.js";
 import nonoDiaPartII from "./dia01aoDia10/nonoDiaPartII.js";
 import nonoDiaPartIII from "./dia01aoDia10/nonoDiaPartIII.js";
 import decimoDia from "./dia01aoDia10/decimoDia.js";
+import decimoDiaPartII from "./dia01aoDia10/decimoDiaPartII.js";
 
 function returnLogs() {
     //console.log(segundoDia)
@@ -28,7 +29,8 @@ function returnLogs() {
     //nonoDia();
     //nonoDiaPartII();
     //nonoDiaPartIII();
-    decimoDia();
+    //decimoDia();
+    decimoDiaPartII();
 }
 
 export default returnLogs;
