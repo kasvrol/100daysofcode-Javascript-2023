@@ -1,32 +1,7 @@
-import segundoDia from "./assets/dia01aoDia10/segundoDia.js";
-import quartoDia from "./assets/dia01aoDia10/quartoDia.js";
-import quartoDiaPartII from "./assets/dia01aoDia10/quartoDiaPartII.js";
-import quintoDia from "./assets/dia01aoDia10/quintoDia.js";
-import quintoDiaPartII from "./assets/dia01aoDia10/quintoDiaPartII.js";
-import sextoDia from "./assets/dia01aoDia10/sextoDia.js";
-import setimoDia from "./assets/dia01aoDia10/setimoDia.js";
-import setimoDiaPartII from "./assets/dia01aoDia10/setimoDiaPartII.js";
-import oitavoDia from "./assets/dia01aoDia10/oitavoDia.js";
-import nonoDia from "./assets/dia01aoDia10/nonoDia.js";
-import nonoDiaPartII from "./assets/dia01aoDia10/nonoDiaPartII.js";
-import nonoDiaPartIII from "./assets/dia01aoDia10/nonoDiaPartIII.js";
+import importacaoDia01AoDia10 from "./assets/importacaoDia01AoDia10.js";
 
 function returnLogs() {
-    //console.log(segundoDia)
-    //console.log(quartoDia);
-    //quartoDia(); /*para book.printTitle(); */
-    //quartoDiaPartII();
-    //quintoDia(10, 10, 10); /*Valores default para parâmetros de funções*/
-    //quintoDia();
-    //quintoDiaPartII();
-
-    //sextoDia();
-    //setimoDia();
-    //setimoDiaPartII();
-    //oitavoDia();
-    //nonoDia();
-    //nonoDiaPartII();
-    nonoDiaPartIII();
+    importacaoDia01AoDia10();
 }
 
 returnLogs();
