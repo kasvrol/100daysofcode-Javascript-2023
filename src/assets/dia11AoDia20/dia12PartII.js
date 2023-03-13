@@ -41,10 +41,8 @@ function resultDeque() {
         },
         DeleteBack: function (items) {
             if (this.isEmpty(items)) return null;
-            const result = Object.keys(items).at(-1);
-            delete items[result];
-            this.count = parseInt(Object.keys(items).at(-1)) + 1;
-            console.log(result);
+            const result = items[parseInt(Object.keys(items).at(-1))];
+            delete items[parseInt(Object.keys(items).at(-1))];
             console.log(items);
             return result;
         },
